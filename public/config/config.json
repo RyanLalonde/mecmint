@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0836585Cf3F8271957260300ae64A61D5a5273A8",
+  "SCAN_LINK": "https://etherscan.io/token/0x0836585Cf3F8271957260300ae64A61D5a5273A8",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Middle Earth Cats",
+  "SYMBOL": "MEC",
+  "MAX_SUPPLY": 8000,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/middleearthcats",
+  "SHOW_BACKGROUND": true
+}
